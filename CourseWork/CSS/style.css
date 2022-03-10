@@ -1,0 +1,104 @@
+﻿/* blue - #00529a, #1b98e0 */
+/* white - #ffffff */
+
+* {
+    font-family: Catamaran, sans-serif;
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+
+
+.page-title {
+    font-family: 'Hind Madurai', sans-serif;
+    background-color: #00529a;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.image-bg {
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    align-content: space-between;
+    margin: auto 20px;
+}
+
+.nav-element {
+    margin: 1%;
+    text-decoration:none;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.nav-element a {
+    text-decoration: none;
+}
+
+.nav-element a:hover {
+    color: red;
+    text-decoration:underline;
+}
+
+.warning {
+    background-color: #fcdede;
+    padding:2%;
+    margin: 25px 4% 0px;
+}
+
+.form-header {
+    font-family: LibreFranklin, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #1b98e0;
+    text-align:center;
+    color: white;
+    padding: 8px;
+}
+
+.container {
+    width: 100%;
+    margin: 3% 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+    align-content: space-between;
+}
+
+.item {
+    width: 20%;
+    padding: 2%;
+    border: 1px solid #70bbfa;
+    border-right: none;
+    text-align: center;
+}
+
+.item:hover {
+    border: 7px solid #00529a;
+}
+
+.first-item {
+    border-radius: 5px 0px 0px 5px;
+}
+
+.last-item {
+    border-right: 1px solid #70bbfa;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.form-img {
+    width: 100%;
+}
+
+
