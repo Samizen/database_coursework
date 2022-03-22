@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="CSS/student_form.css" />
 </head>
 <body>
-    <h1 class="page-title">Teacher-Module Details</h1>
+    <h1 class="page-title">Student Fee Details</h1>
     <h3 class="form-header">Links to Other Forms</h3>
     <div class="navbar">
         <p class="nav-element"><a href="Dashboard.aspx">Home</a></p>

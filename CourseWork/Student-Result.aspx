@@ -4,13 +4,13 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Student-Fee | Advanced Database Coursework | Samit Paudel</title>
+    <title>Student-Result | Advanced Database Coursework | Samit Paudel</title>
     <link rel="stylesheet" href="CSS/style.css" />
     <link rel="stylesheet" href="CSS/student_form.css" />
     <link rel="stylesheet" href="CSS/result.css" />
 </head>
 <body>
-    <h1 class="page-title">Teacher-Module Details</h1>
+    <h1 class="page-title">Student-Result Details</h1>
     <h3 class="form-header">Links to Other Forms</h3>
     <div class="navbar">
         <p class="nav-element"><a href="Dashboard.aspx">Home</a></p>
